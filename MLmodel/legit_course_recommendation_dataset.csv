@@ -1,0 +1,1001 @@
+skills,field,years_of_experience,recommended_course
+"Python, Azure",DevOps,3,DevOps Engineering
+"Azure, SQL, Deep Learning",Game Development,1,Game Design with Unity
+"TensorFlow, Java, Python, C++, CSS, JavaScript",Game Development,9,Game Design with Unity
+"NumPy, CSS",AR/VR,8,AR/VR Development
+"JavaScript, PyTorch, Matplotlib, Node.js, Docker",Data Science,2,Data Science Bootcamp
+"Node.js, R, CSS, Power BI",Web Development,1,Full Stack Web Development
+"SQL, Django, Linux, Scikit-learn, Node.js",Data Science,7,Pandas & NumPy Crash Course
+"Tableau, Flask",Software Engineering,8,AI for Everyone
+"Git, Linux, Django, Matplotlib, CSS, AWS",Software Engineering,0,DevOps Engineering
+"C++, Linux, JavaScript, SQL",AI/ML,4,Data Science Bootcamp
+"HTML, Django, CSS, Deep Learning",DevOps,10,Linux for Developers
+"Scikit-learn, Machine Learning",Cybersecurity,8,Cybersecurity Fundamentals
+"HTML, PyTorch, Flask",DevOps,10,Linux for Developers
+"JavaScript, Deep Learning, Angular, Kubernetes, GCP, Linux",Data Science,3,Intro to Machine Learning
+"Flask, Node.js, C++, CSS",IoT,5,IoT Development with Raspberry Pi
+"Machine Learning, Keras, Flask",AR/VR,7,AR/VR Development
+"Node.js, R, JavaScript",Game Development,8,Game Design with Unity
+"Azure, Matplotlib, TensorFlow, Git",IoT,6,IoT Development with Raspberry Pi
+"JavaScript, R, Pandas, Keras",Software Engineering,0,Deep Learning Specialization
+"Machine Learning, HTML, Docker",AR/VR,6,AR/VR Development
+"C++, Flask, Tableau, Scikit-learn, PyTorch, Pandas",DevOps,8,DevOps Engineering
+"Deep Learning, Git",Game Development,4,Game Design with Unity
+"SQL, React, TensorFlow, HTML",Business Intelligence,0,Game Design with Unity
+"GCP, HTML, Pandas, SQL, Machine Learning, React",AR/VR,8,AR/VR Development
+"CSS, R, Django, GCP, HTML, NumPy",Game Development,0,Game Design with Unity
+"Angular, Keras, Python, SQL, Django, Docker",DevOps,3,DevOps Engineering
+"Git, Matplotlib, Power BI",Software Engineering,1,Docker Essentials
+"GCP, NumPy",Cybersecurity,2,Cybersecurity Fundamentals
+"Power BI, NumPy, HTML, Node.js, Pandas",IoT,6,IoT Development with Raspberry Pi
+"Tableau, NumPy, GCP",Cloud Computing,4,Docker Essentials
+"PyTorch, Git, Pandas, SQL",Cloud Computing,3,Cloud Architecture with AWS
+"Python, Matplotlib, NumPy, JavaScript",IoT,3,IoT Development with Raspberry Pi
+"C++, AWS",AR/VR,0,AR/VR Development
+"C++, Git, Java",Web Development,1,JavaScript Masterclass
+"Node.js, Deep Learning, Keras",Cloud Computing,8,Cloud Architecture with AWS
+"Matplotlib, Keras, JavaScript, Docker, Tableau, Linux",AI/ML,3,Intro to Machine Learning
+"Deep Learning, TensorFlow",Web Development,6,React for Beginners
+"Linux, Azure, Java, Deep Learning, Machine Learning",AR/VR,1,AR/VR Development
+"Flask, Azure",Web Development,1,Full Stack Web Development
+"CSS, NumPy, PyTorch",Cybersecurity,6,Cybersecurity Fundamentals
+"Node.js, PyTorch, JavaScript",Software Engineering,7,Pandas & NumPy Crash Course
+"Java, Machine Learning",Game Development,0,Game Design with Unity
+"Tableau, GCP",Cloud Computing,2,Docker Essentials
+"Keras, CSS, Linux, Flask, Git",Data Science,2,Data Science Bootcamp
+"Flask, Node.js",Business Intelligence,4,Power BI Data Analysis
+"Deep Learning, AWS, Keras, R, CSS, React",Cloud Computing,0,Kubernetes Hands-On
+"Java, Azure, Angular, Power BI, Linux, Matplotlib",Business Intelligence,8,Linux for Developers
+"Java, Power BI, Pandas",Software Engineering,2,Cloud Architecture with AWS
+"C++, Deep Learning, Linux, JavaScript, Flask, SQL",IoT,3,IoT Development with Raspberry Pi
+"Scikit-learn, Java, Power BI, C++, TensorFlow, Deep Learning",IoT,9,IoT Development with Raspberry Pi
+"Angular, Tableau, Node.js, CSS, Deep Learning, AWS",Web Development,3,React for Beginners
+"R, Deep Learning, Machine Learning, React, PyTorch",Web Development,1,Full Stack Web Development
+"Scikit-learn, Matplotlib, SQL, C++, NumPy",Cloud Computing,8,Docker Essentials
+"Tableau, Django, Git",Software Engineering,3,IoT Development with Raspberry Pi
+"HTML, PyTorch, Kubernetes, NumPy",DevOps,9,Linux for Developers
+"Python, Deep Learning, Kubernetes, NumPy, React, Tableau",Software Engineering,2,Game Design with Unity
+"Git, SQL",Game Development,2,Game Design with Unity
+"React, Scikit-learn, CSS, AWS",Web Development,3,JavaScript Masterclass
+"Pandas, Keras, Node.js, Git",Data Science,1,Data Science Bootcamp
+"Java, Python, Angular, GCP",Cybersecurity,10,Cybersecurity Fundamentals
+"HTML, Azure, PyTorch, NumPy",AI/ML,8,Intro to Machine Learning
+"C++, Power BI",Cybersecurity,8,Cybersecurity Fundamentals
+"Kubernetes, Django",IoT,8,IoT Development with Raspberry Pi
+"TensorFlow, R, Java",DevOps,5,DevOps Engineering
+"CSS, Deep Learning, JavaScript, SQL",Web Development,8,React for Beginners
+"Azure, R, JavaScript, Linux, HTML, Docker",Cybersecurity,6,Cybersecurity Fundamentals
+"HTML, Azure",Web Development,6,JavaScript Masterclass
+"Node.js, HTML, Docker",Software Engineering,6,Full Stack Web Development
+"JavaScript, CSS, Kubernetes, Tableau, PyTorch",Web Development,4,Full Stack Web Development
+"Python, Deep Learning, CSS",AI/ML,5,AI for Everyone
+"Power BI, GCP",DevOps,5,Linux for Developers
+"Flask, Deep Learning, Kubernetes, NumPy, Angular, Python",Software Engineering,4,React for Beginners
+"Power BI, Node.js, Java, SQL, Scikit-learn, TensorFlow",Web Development,5,React for Beginners
+"Pandas, SQL, Flask, Matplotlib, CSS, Node.js",Data Science,6,Intro to Machine Learning
+"Tableau, Docker, NumPy, Deep Learning, Azure, Kubernetes",AR/VR,3,AR/VR Development
+"TensorFlow, C++, Power BI, Deep Learning",Web Development,9,React for Beginners
+"Azure, Git",DevOps,8,Docker Essentials
+"Angular, Flask, AWS, React, NumPy",Cybersecurity,3,Cybersecurity Fundamentals
+"Deep Learning, Power BI, Flask, Azure, Git",Cybersecurity,9,Cybersecurity Fundamentals
+"React, Flask, NumPy, Kubernetes, Python, Power BI",DevOps,3,Docker Essentials
+"Scikit-learn, Machine Learning, Angular, PyTorch, Linux, Kubernetes",AR/VR,3,AR/VR Development
+"Keras, Docker, Git, Tableau, Azure, HTML",AR/VR,1,AR/VR Development
+"Pandas, Deep Learning, Machine Learning, Scikit-learn",Web Development,1,Full Stack Web Development
+"JavaScript, Docker, CSS, R",Data Science,0,Deep Learning Specialization
+"Scikit-learn, Linux, GCP, C++, PyTorch",AI/ML,10,Pandas & NumPy Crash Course
+"AWS, Flask, Keras",AI/ML,3,Deep Learning Specialization
+"Git, GCP",Software Engineering,6,DevOps Engineering
+"Docker, Power BI, AWS",Game Development,7,Game Design with Unity
+"NumPy, JavaScript",Software Engineering,7,Cybersecurity Fundamentals
+"Deep Learning, Pandas, NumPy, Scikit-learn, Angular",Business Intelligence,9,Linux for Developers
+"Kubernetes, Tableau, NumPy, PyTorch, Git",Cybersecurity,7,Cybersecurity Fundamentals
+"Node.js, GCP, JavaScript, Kubernetes, Machine Learning",DevOps,8,Docker Essentials
+"Node.js, PyTorch, C++",DevOps,3,Docker Essentials
+"Angular, Git, NumPy, C++",Cybersecurity,2,Cybersecurity Fundamentals
+"Flask, AWS, R",Cloud Computing,1,Docker Essentials
+"Angular, NumPy, PyTorch, TensorFlow, Java",Cloud Computing,6,Docker Essentials
+"Power BI, AWS, Python, Linux, GCP, Matplotlib",AI/ML,7,Intro to Machine Learning
+"React, GCP, Flask, Linux",AI/ML,8,Pandas & NumPy Crash Course
+"Git, JavaScript, Keras, Tableau, Node.js, TensorFlow",Business Intelligence,0,Mastering SQL
+"Deep Learning, Docker, Flask, Azure",Cybersecurity,7,Cybersecurity Fundamentals
+"Scikit-learn, NumPy, Python",AI/ML,9,Pandas & NumPy Crash Course
+"C++, Machine Learning",AI/ML,2,Data Science Bootcamp
+"Java, Node.js, Flask",Web Development,3,React for Beginners
+"Angular, GCP, Git, Flask",DevOps,6,Docker Essentials
+"Keras, Python",Game Development,0,Game Design with Unity
+"JavaScript, Machine Learning, C++, GCP",AR/VR,0,AR/VR Development
+"Power BI, JavaScript",Cloud Computing,0,Kubernetes Hands-On
+"JavaScript, R, Keras",AR/VR,1,AR/VR Development
+"Power BI, CSS, PyTorch, AWS, Node.js, GCP",Web Development,2,JavaScript Masterclass
+"Power BI, Azure, AWS, SQL, GCP, HTML",DevOps,1,Linux for Developers
+"Tableau, React",IoT,10,IoT Development with Raspberry Pi
+"Flask, Power BI, AWS, CSS, C++",IoT,10,IoT Development with Raspberry Pi
+"SQL, AWS, GCP",DevOps,10,Linux for Developers
+"Docker, Matplotlib",Data Science,5,Pandas & NumPy Crash Course
+"Deep Learning, Django, C++, Pandas, Machine Learning",Web Development,0,React for Beginners
+"SQL, TensorFlow, Power BI, Django, Machine Learning",Business Intelligence,2,Power BI Data Analysis
+"Azure, Pandas, Power BI",AR/VR,4,AR/VR Development
+"Docker, Tableau, NumPy, GCP, Keras, PyTorch",AI/ML,9,AI for Everyone
+"Linux, JavaScript, Kubernetes, Tableau",Software Engineering,4,Advanced Python Programming
+"GCP, PyTorch, Matplotlib",IoT,10,IoT Development with Raspberry Pi
+"Angular, Python, Keras, Linux, HTML",Business Intelligence,3,IoT Development with Raspberry Pi
+"Angular, Node.js, Git, Scikit-learn",DevOps,8,DevOps Engineering
+"Power BI, CSS, C++, JavaScript, Azure, TensorFlow",Business Intelligence,8,DevOps Engineering
+"Machine Learning, AWS, Keras, PyTorch, Docker",Data Science,1,AI for Everyone
+"Flask, AWS, JavaScript",DevOps,10,Linux for Developers
+"Keras, NumPy, Pandas, Django",AI/ML,8,AI for Everyone
+"AWS, PyTorch, Node.js, React",DevOps,3,DevOps Engineering
+"Angular, SQL, Azure",Game Development,2,Game Design with Unity
+"CSS, Azure, Keras",DevOps,9,Linux for Developers
+"React, SQL, Kubernetes, CSS, Power BI, JavaScript",Web Development,2,React for Beginners
+"AWS, NumPy",Cybersecurity,4,Cybersecurity Fundamentals
+"Java, NumPy",DevOps,2,Linux for Developers
+"SQL, Linux, Python, Matplotlib, React",Business Intelligence,7,Advanced Python Programming
+"HTML, Power BI, Java, Node.js",Business Intelligence,1,Cloud Architecture with AWS
+"Keras, C++, Matplotlib, Machine Learning, Deep Learning",Data Science,2,Deep Learning Specialization
+"Power BI, React, C++, JavaScript, SQL, NumPy",AI/ML,9,Pandas & NumPy Crash Course
+"JavaScript, GCP, Pandas, Flask, PyTorch, Kubernetes",DevOps,9,Docker Essentials
+"Matplotlib, Scikit-learn, Java, Power BI",Software Engineering,3,Data Science Bootcamp
+"Deep Learning, C++, HTML, JavaScript",Cybersecurity,8,Cybersecurity Fundamentals
+"HTML, Python",AI/ML,7,Pandas & NumPy Crash Course
+"React, Java, JavaScript, AWS, Linux",Business Intelligence,1,DevOps Engineering
+"Docker, Machine Learning, Matplotlib, Deep Learning",Cloud Computing,6,Cloud Architecture with AWS
+"JavaScript, Machine Learning, R, Node.js, Kubernetes, Git",Software Engineering,0,React for Beginners
+"Scikit-learn, Azure, Kubernetes, Matplotlib",DevOps,7,DevOps Engineering
+"AWS, React, Flask, Power BI, Node.js",Game Development,8,Game Design with Unity
+"PyTorch, C++, Scikit-learn, Java, Git",AI/ML,5,Pandas & NumPy Crash Course
+"Python, C++, JavaScript, Power BI",AR/VR,9,AR/VR Development
+"Power BI, Python, GCP, Deep Learning, Kubernetes, Node.js",IoT,0,IoT Development with Raspberry Pi
+"Keras, Pandas, Machine Learning",Business Intelligence,4,React for Beginners
+"TensorFlow, Machine Learning, Kubernetes, Keras, C++, Linux",Web Development,6,React for Beginners
+"Deep Learning, SQL, Linux, HTML",Web Development,6,JavaScript Masterclass
+"React, Deep Learning, Power BI, Flask, Kubernetes",Game Development,0,Game Design with Unity
+"C++, Angular, Node.js, SQL, GCP",AI/ML,8,Intro to Machine Learning
+"PyTorch, TensorFlow, Java, CSS, Pandas, Django",IoT,7,IoT Development with Raspberry Pi
+"GCP, Java, CSS, Node.js, NumPy",Cybersecurity,4,Cybersecurity Fundamentals
+"Git, AWS, Keras, SQL, Python",AR/VR,9,AR/VR Development
+"AWS, HTML, React",Game Development,0,Game Design with Unity
+"TensorFlow, C++, JavaScript, Kubernetes, SQL, PyTorch",Software Engineering,10,Cybersecurity Fundamentals
+"Tableau, AWS, React, Pandas, Node.js",AI/ML,7,Data Science Bootcamp
+"PyTorch, NumPy, R",AI/ML,3,Pandas & NumPy Crash Course
+"Azure, Git, R, Linux, C++, Node.js",AI/ML,5,Pandas & NumPy Crash Course
+"Kubernetes, Python, React, Azure",DevOps,9,Linux for Developers
+"Linux, R, PyTorch, NumPy, Keras",Web Development,5,JavaScript Masterclass
+"Flask, PyTorch, Angular, Linux, CSS, AWS",Cloud Computing,9,Docker Essentials
+"Linux, GCP, TensorFlow",Data Science,5,Data Science Bootcamp
+"Flask, Deep Learning, Docker, Kubernetes, Machine Learning",Cybersecurity,7,Cybersecurity Fundamentals
+"R, Pandas",IoT,5,IoT Development with Raspberry Pi
+"Linux, PyTorch",Software Engineering,8,Advanced Python Programming
+"Azure, R",AI/ML,10,Deep Learning Specialization
+"Keras, Docker",DevOps,5,Linux for Developers
+"Machine Learning, C++, Linux, Angular, Deep Learning",Game Development,6,Game Design with Unity
+"Machine Learning, AWS, Git, GCP",Business Intelligence,8,Full Stack Web Development
+"C++, JavaScript, Machine Learning, Deep Learning, React, Tableau",Software Engineering,6,Deep Learning Specialization
+"PyTorch, HTML",DevOps,0,DevOps Engineering
+"Docker, Java, React, Django",Web Development,6,Full Stack Web Development
+"Pandas, TensorFlow, Matplotlib",AR/VR,2,AR/VR Development
+"HTML, C++, Scikit-learn",AI/ML,9,Deep Learning Specialization
+"Tableau, Matplotlib, R, JavaScript, PyTorch",AR/VR,4,AR/VR Development
+"Node.js, Deep Learning, Python, Git, Docker",Business Intelligence,4,Pandas & NumPy Crash Course
+"C++, PyTorch, Power BI",Web Development,9,React for Beginners
+"AWS, Node.js, PyTorch, Linux, React",Cloud Computing,6,Docker Essentials
+"JavaScript, Flask",IoT,5,IoT Development with Raspberry Pi
+"React, AWS, Power BI, Python, Kubernetes, Deep Learning",AI/ML,4,Intro to Machine Learning
+"Linux, Deep Learning, GCP, Azure, Java, Scikit-learn",Business Intelligence,4,DevOps Engineering
+"Docker, Django, JavaScript, Machine Learning, CSS, Scikit-learn",DevOps,10,Linux for Developers
+"Machine Learning, SQL, Git",AR/VR,10,AR/VR Development
+"React, Docker",Business Intelligence,0,AR/VR Development
+"Azure, R, C++, Tableau",DevOps,5,Linux for Developers
+"HTML, CSS, R, Docker, NumPy",Web Development,8,JavaScript Masterclass
+"Kubernetes, HTML, Node.js, Tableau",Business Intelligence,4,Kubernetes Hands-On
+"PyTorch, Power BI",Software Engineering,2,DevOps Engineering
+"Power BI, Linux, Docker, NumPy, Django",Software Engineering,6,Intro to Machine Learning
+"NumPy, SQL, PyTorch, Django",AR/VR,10,AR/VR Development
+"Matplotlib, Flask, Kubernetes, Machine Learning",Web Development,1,JavaScript Masterclass
+"Keras, Python, Scikit-learn",Game Development,5,Game Design with Unity
+"JavaScript, Machine Learning, C++, Tableau, Kubernetes, PyTorch",DevOps,10,Docker Essentials
+"R, Java",Data Science,4,Data Science Bootcamp
+"SQL, JavaScript",Game Development,2,Game Design with Unity
+"PyTorch, Django, Deep Learning, Power BI, Azure",Game Development,6,Game Design with Unity
+"Azure, Power BI, R, TensorFlow, Machine Learning, SQL",Business Intelligence,9,Power BI Data Analysis
+"Java, AWS, Django, CSS",Business Intelligence,7,DevOps Engineering
+"SQL, Deep Learning, Django, NumPy",AR/VR,5,AR/VR Development
+"Flask, Node.js",Cloud Computing,1,Docker Essentials
+"Deep Learning, CSS",AR/VR,10,AR/VR Development
+"Python, Java, Docker, Angular, JavaScript, R",IoT,3,IoT Development with Raspberry Pi
+"Kubernetes, GCP",Game Development,3,Game Design with Unity
+"CSS, Kubernetes, Linux, JavaScript, Angular, GCP",Cybersecurity,9,Cybersecurity Fundamentals
+"Node.js, Linux",Cybersecurity,2,Cybersecurity Fundamentals
+"Node.js, Docker, HTML, SQL, Deep Learning, Python",Cybersecurity,0,Cybersecurity Fundamentals
+"Docker, JavaScript, Matplotlib, Angular",Data Science,2,AI for Everyone
+"R, Azure",AI/ML,8,Intro to Machine Learning
+"Keras, PyTorch",Web Development,8,JavaScript Masterclass
+"PyTorch, Pandas",Cloud Computing,9,Cloud Architecture with AWS
+"React, PyTorch, Machine Learning, Python, Java, Keras",AI/ML,6,Intro to Machine Learning
+"AWS, Tableau, PyTorch, C++, Git",Software Engineering,5,JavaScript Masterclass
+"C++, R, Node.js",IoT,10,IoT Development with Raspberry Pi
+"NumPy, AWS, Angular, Flask, Scikit-learn, Pandas",DevOps,7,Linux for Developers
+"TensorFlow, SQL, Docker, AWS, Tableau, Machine Learning",AR/VR,8,AR/VR Development
+"TensorFlow, PyTorch, Git",Cloud Computing,6,Docker Essentials
+"Flask, TensorFlow, Azure, SQL, Angular",AI/ML,5,AI for Everyone
+"Power BI, R, Deep Learning, Tableau",Business Intelligence,1,Cloud Architecture with AWS
+"C++, TensorFlow",Software Engineering,5,Cybersecurity Fundamentals
+"Java, Matplotlib, NumPy, Git, Angular, Deep Learning",Software Engineering,6,IoT Development with Raspberry Pi
+"Linux, Tableau, Azure, Java, Power BI",DevOps,9,Docker Essentials
+"SQL, Matplotlib, Pandas, CSS",Cybersecurity,10,Cybersecurity Fundamentals
+"JavaScript, Linux, SQL, Django, NumPy",Web Development,1,React for Beginners
+"JavaScript, Docker, TensorFlow, Linux, NumPy, GCP",IoT,9,IoT Development with Raspberry Pi
+"Python, Scikit-learn, Deep Learning, Kubernetes, AWS, Node.js",Data Science,2,AI for Everyone
+"Tableau, Angular, Django, Python",Cybersecurity,2,Cybersecurity Fundamentals
+"Deep Learning, Flask, C++, R, Azure, Machine Learning",Data Science,1,Pandas & NumPy Crash Course
+"Flask, TensorFlow, PyTorch",Web Development,2,React for Beginners
+"Azure, Angular, GCP, Power BI",IoT,9,IoT Development with Raspberry Pi
+"Git, Java",Cybersecurity,2,Cybersecurity Fundamentals
+"Java, Deep Learning, C++, Node.js, PyTorch, Tableau",AI/ML,7,Pandas & NumPy Crash Course
+"TensorFlow, Node.js, CSS, GCP, Pandas",Software Engineering,5,Power BI Data Analysis
+"React, Deep Learning",AR/VR,9,AR/VR Development
+"Pandas, Deep Learning, React, Java, JavaScript",AI/ML,9,Intro to Machine Learning
+"CSS, React",Cloud Computing,2,Docker Essentials
+"Angular, SQL, Python, Keras",AI/ML,2,Deep Learning Specialization
+"NumPy, AWS, JavaScript, Pandas, Kubernetes",AR/VR,5,AR/VR Development
+"Flask, Linux",Data Science,6,Intro to Machine Learning
+"Tableau, C++, Linux, Angular, Matplotlib",AI/ML,9,Data Science Bootcamp
+"React, SQL, Flask, Python, Power BI",Web Development,2,JavaScript Masterclass
+"Kubernetes, AWS, Tableau, Django, C++",AI/ML,1,Deep Learning Specialization
+"Matplotlib, Flask, Pandas, C++, Linux",DevOps,5,DevOps Engineering
+"GCP, HTML, C++, Pandas",AR/VR,1,AR/VR Development
+"Pandas, CSS, Git, GCP, Django, Kubernetes",AR/VR,2,AR/VR Development
+"SQL, R, Node.js",Cloud Computing,2,Kubernetes Hands-On
+"GCP, Machine Learning, C++",Cybersecurity,10,Cybersecurity Fundamentals
+"PyTorch, GCP, Matplotlib, Deep Learning, Tableau",IoT,10,IoT Development with Raspberry Pi
+"Angular, Linux, Machine Learning, Power BI, R, PyTorch",Software Engineering,7,Advanced Python Programming
+"Docker, Node.js, Matplotlib, Java",Web Development,8,Full Stack Web Development
+"PyTorch, Java, Django, Kubernetes",DevOps,1,Linux for Developers
+"Scikit-learn, Pandas",AI/ML,7,Pandas & NumPy Crash Course
+"Power BI, Docker, Azure, Java, PyTorch, Tableau",IoT,10,IoT Development with Raspberry Pi
+"Angular, Scikit-learn, Keras",Game Development,2,Game Design with Unity
+"PyTorch, SQL",Web Development,1,JavaScript Masterclass
+"Java, JavaScript, AWS",Business Intelligence,7,Linux for Developers
+"Scikit-learn, HTML, Django, Git, React, Flask",AI/ML,5,Pandas & NumPy Crash Course
+"Docker, Machine Learning",AR/VR,5,AR/VR Development
+"Angular, SQL",Game Development,10,Game Design with Unity
+"React, Node.js, Azure, Linux, Deep Learning",IoT,2,IoT Development with Raspberry Pi
+"C++, Matplotlib, Deep Learning, R",Web Development,4,JavaScript Masterclass
+"R, Scikit-learn, AWS, Power BI, C++",DevOps,8,Docker Essentials
+"Kubernetes, R, Deep Learning, AWS",AR/VR,8,AR/VR Development
+"Machine Learning, Deep Learning",AI/ML,8,AI for Everyone
+"Django, React",Cybersecurity,3,Cybersecurity Fundamentals
+"Power BI, GCP, Keras, CSS",Cloud Computing,2,Cloud Architecture with AWS
+"React, Linux",Software Engineering,8,Pandas & NumPy Crash Course
+"Java, Deep Learning, Angular, GCP, Scikit-learn, R",IoT,6,IoT Development with Raspberry Pi
+"HTML, Kubernetes, AWS",IoT,2,IoT Development with Raspberry Pi
+"Java, TensorFlow, Django, Deep Learning, Azure",Cloud Computing,7,Kubernetes Hands-On
+"GCP, Azure, Docker, PyTorch",Cloud Computing,8,Cloud Architecture with AWS
+"Power BI, Docker, Keras, Git",Cloud Computing,5,Kubernetes Hands-On
+"PyTorch, Power BI, GCP, React, Git, Flask",Game Development,8,Game Design with Unity
+"Power BI, HTML, Kubernetes, CSS, Docker",IoT,2,IoT Development with Raspberry Pi
+"Java, Machine Learning, Keras, Linux",Web Development,8,Full Stack Web Development
+"Linux, SQL, React, C++, GCP, HTML",DevOps,7,Linux for Developers
+"Kubernetes, TensorFlow, C++",Cloud Computing,7,Docker Essentials
+"TensorFlow, Java",AI/ML,8,AI for Everyone
+"Flask, C++, Django",Cloud Computing,0,Docker Essentials
+"Kubernetes, AWS",AR/VR,5,AR/VR Development
+"R, Java, React",Business Intelligence,2,Docker Essentials
+"Scikit-learn, Python, Git, C++, Node.js",Cloud Computing,2,Kubernetes Hands-On
+"Pandas, TensorFlow, SQL, GCP, React, JavaScript",DevOps,1,DevOps Engineering
+"TensorFlow, Machine Learning, Docker",IoT,7,IoT Development with Raspberry Pi
+"SQL, Kubernetes",Business Intelligence,9,Pandas & NumPy Crash Course
+"Machine Learning, Pandas",IoT,3,IoT Development with Raspberry Pi
+"React, TensorFlow, Python",IoT,5,IoT Development with Raspberry Pi
+"Matplotlib, TensorFlow, HTML",AR/VR,10,AR/VR Development
+"Pandas, Django",Software Engineering,8,Pandas & NumPy Crash Course
+"Docker, Pandas, NumPy, Python, Flask, Keras",Data Science,10,Data Science Bootcamp
+"Node.js, Azure, Python, Django",Software Engineering,5,DevOps Engineering
+"GCP, Matplotlib",Web Development,2,Full Stack Web Development
+"NumPy, Angular, Kubernetes, Machine Learning",Cybersecurity,10,Cybersecurity Fundamentals
+"AWS, Keras, Machine Learning, HTML, Docker",Cybersecurity,1,Cybersecurity Fundamentals
+"Java, React, CSS, Docker, Git",Data Science,5,AI for Everyone
+"Flask, Kubernetes, NumPy, Keras, Node.js, Java",AR/VR,3,AR/VR Development
+"Django, Linux, GCP, Java",AR/VR,5,AR/VR Development
+"SQL, Docker, Django, TensorFlow",AI/ML,7,Data Science Bootcamp
+"HTML, Keras, AWS, Django",Game Development,4,Game Design with Unity
+"Azure, TensorFlow",Software Engineering,6,JavaScript Masterclass
+"NumPy, React, Angular",Software Engineering,1,Kubernetes Hands-On
+"React, PyTorch, Scikit-learn, AWS",AI/ML,2,Data Science Bootcamp
+"PyTorch, Java, Azure, Linux",Web Development,9,React for Beginners
+"Machine Learning, Docker, Power BI, Java",Software Engineering,10,Mastering SQL
+"Pandas, Docker, Azure, Deep Learning",Cybersecurity,0,Cybersecurity Fundamentals
+"Linux, Scikit-learn, Deep Learning",Business Intelligence,0,Cybersecurity Fundamentals
+"JavaScript, GCP",AR/VR,5,AR/VR Development
+"Flask, Power BI, Matplotlib, Java",IoT,2,IoT Development with Raspberry Pi
+"Power BI, Django, PyTorch, GCP, C++",IoT,2,IoT Development with Raspberry Pi
+"Django, Flask, Angular, Machine Learning, Node.js, JavaScript",Software Engineering,0,React for Beginners
+"Pandas, Flask, Tableau, NumPy, SQL",DevOps,4,Linux for Developers
+"CSS, Scikit-learn, React, AWS, Tableau",Business Intelligence,3,Deep Learning Specialization
+"Linux, C++, PyTorch",Cybersecurity,7,Cybersecurity Fundamentals
+"Docker, Deep Learning",Web Development,10,React for Beginners
+"NumPy, React",DevOps,2,Linux for Developers
+"Docker, Django, Pandas",Cloud Computing,1,Cloud Architecture with AWS
+"JavaScript, Docker, Keras",Data Science,5,Pandas & NumPy Crash Course
+"Django, PyTorch, Docker, NumPy, R, Scikit-learn",Software Engineering,1,AI for Everyone
+"AWS, Azure, Keras, Pandas, TensorFlow",AI/ML,9,Intro to Machine Learning
+"Angular, Machine Learning, C++",Business Intelligence,7,Linux for Developers
+"R, Git, Kubernetes, GCP",Game Development,10,Game Design with Unity
+"HTML, GCP, R, TensorFlow, Pandas, Java",Software Engineering,8,Cybersecurity Fundamentals
+"HTML, Angular, Tableau, AWS",Cloud Computing,5,Kubernetes Hands-On
+"Linux, C++, Node.js, CSS",AR/VR,8,AR/VR Development
+"R, Machine Learning, React, Scikit-learn",Game Development,1,Game Design with Unity
+"Machine Learning, HTML, Matplotlib, Git, R, Tableau",AR/VR,9,AR/VR Development
+"Angular, Kubernetes, Matplotlib, Java, Tableau, Python",Software Engineering,0,AR/VR Development
+"Machine Learning, CSS, GCP, Matplotlib",AI/ML,9,Intro to Machine Learning
+"Git, Machine Learning, NumPy, React, Power BI",DevOps,7,DevOps Engineering
+"React, PyTorch, C++, AWS, Java",Cybersecurity,7,Cybersecurity Fundamentals
+"Keras, PyTorch, CSS, Angular, Scikit-learn",Cybersecurity,5,Cybersecurity Fundamentals
+"Azure, Linux, Django, Flask",Cybersecurity,5,Cybersecurity Fundamentals
+"NumPy, SQL, Angular, JavaScript, PyTorch, Tableau",DevOps,7,DevOps Engineering
+"SQL, Java, React",AI/ML,9,Data Science Bootcamp
+"Power BI, Linux, Git",Cybersecurity,5,Cybersecurity Fundamentals
+"Azure, Angular, CSS, GCP, HTML, Keras",Game Development,7,Game Design with Unity
+"Git, React, Keras, Python, C++",AI/ML,8,Data Science Bootcamp
+"CSS, Matplotlib, Django",Data Science,0,AI for Everyone
+"Scikit-learn, Git, Kubernetes, Machine Learning, Deep Learning",Business Intelligence,4,Pandas & NumPy Crash Course
+"Linux, SQL",AI/ML,2,AI for Everyone
+"GCP, Flask, Django, Java",AI/ML,0,Pandas & NumPy Crash Course
+"CSS, Django, NumPy, React, C++, Flask",Game Development,7,Game Design with Unity
+"Node.js, Kubernetes, Scikit-learn, Deep Learning, Git, SQL",Cybersecurity,1,Cybersecurity Fundamentals
+"Django, Docker, Angular, NumPy, Power BI",Web Development,2,Full Stack Web Development
+"Pandas, Flask, Power BI, Java, Linux, Kubernetes",Cybersecurity,5,Cybersecurity Fundamentals
+"Pandas, PyTorch, R, Scikit-learn, Git",Game Development,2,Game Design with Unity
+"Tableau, Scikit-learn, Angular, HTML",AI/ML,9,AI for Everyone
+"Angular, Pandas, Kubernetes, Tableau, NumPy, Keras",IoT,4,IoT Development with Raspberry Pi
+"Kubernetes, Python, Django, Angular, Deep Learning",Software Engineering,6,AR/VR Development
+"Docker, Git, Azure, Linux",AR/VR,0,AR/VR Development
+"Keras, Node.js, Machine Learning, Docker, GCP, Matplotlib",IoT,3,IoT Development with Raspberry Pi
+"Matplotlib, Keras",Cybersecurity,8,Cybersecurity Fundamentals
+"GCP, Kubernetes, Flask, R, Tableau, Deep Learning",Cloud Computing,0,Kubernetes Hands-On
+"CSS, Python",Business Intelligence,5,Power BI Data Analysis
+"TensorFlow, AWS, CSS",AI/ML,8,Pandas & NumPy Crash Course
+"Linux, Azure, Java, AWS, R",Game Development,3,Game Design with Unity
+"Angular, Deep Learning, Keras, Pandas, Flask, Power BI",Cybersecurity,7,Cybersecurity Fundamentals
+"Angular, NumPy, Django, Deep Learning, GCP, Azure",AR/VR,10,AR/VR Development
+"Scikit-learn, Keras, CSS, Power BI",Cloud Computing,4,Kubernetes Hands-On
+"JavaScript, Power BI, React, GCP",DevOps,3,Linux for Developers
+"Angular, Keras, Django, NumPy, Tableau",DevOps,4,DevOps Engineering
+"Deep Learning, NumPy, Flask, Git, Kubernetes, Django",Cybersecurity,4,Cybersecurity Fundamentals
+"React, Power BI",Software Engineering,5,Advanced Python Programming
+"Azure, Keras, CSS, Kubernetes",Game Development,4,Game Design with Unity
+"AWS, Node.js, R, SQL, Scikit-learn, Azure",IoT,3,IoT Development with Raspberry Pi
+"Java, Deep Learning, Git",Game Development,3,Game Design with Unity
+"Java, SQL, TensorFlow",Web Development,7,Full Stack Web Development
+"Python, Power BI, NumPy",Cybersecurity,6,Cybersecurity Fundamentals
+"Keras, Machine Learning, CSS, GCP, Power BI",DevOps,5,Docker Essentials
+"Tableau, GCP",Software Engineering,10,AR/VR Development
+"NumPy, Azure, Linux",Data Science,2,Data Science Bootcamp
+"Tableau, Java, Kubernetes",AI/ML,7,Deep Learning Specialization
+"Git, Java, Python, React",IoT,9,IoT Development with Raspberry Pi
+"Tableau, Angular",DevOps,7,Linux for Developers
+"Pandas, Keras, Git, R, Power BI, PyTorch",DevOps,3,DevOps Engineering
+"HTML, Azure, PyTorch, Machine Learning",DevOps,2,DevOps Engineering
+"Docker, React, Matplotlib, Deep Learning",Cloud Computing,2,Kubernetes Hands-On
+"Kubernetes, TensorFlow, Pandas, Angular, C++",AI/ML,10,Intro to Machine Learning
+"R, Keras, Angular",Cloud Computing,0,Docker Essentials
+"JavaScript, PyTorch, GCP, Node.js, Power BI",Web Development,4,JavaScript Masterclass
+"Python, Node.js, Machine Learning, Django, AWS, JavaScript",Data Science,10,Intro to Machine Learning
+"React, HTML, Flask, Deep Learning, Pandas",DevOps,1,Linux for Developers
+"Django, Scikit-learn, JavaScript, Power BI",Cybersecurity,7,Cybersecurity Fundamentals
+"PyTorch, Azure, Scikit-learn",Web Development,6,JavaScript Masterclass
+"Tableau, Keras, GCP, NumPy, Docker, Deep Learning",Cloud Computing,3,Kubernetes Hands-On
+"Linux, Docker, C++, Pandas, PyTorch, Power BI",Web Development,1,JavaScript Masterclass
+"Java, Kubernetes",Game Development,8,Game Design with Unity
+"Matplotlib, NumPy, R",Cybersecurity,5,Cybersecurity Fundamentals
+"PyTorch, SQL, Deep Learning, CSS, AWS, Matplotlib",Business Intelligence,1,Linux for Developers
+"Docker, Java, PyTorch, R, Pandas",AI/ML,7,Pandas & NumPy Crash Course
+"NumPy, PyTorch",AR/VR,4,AR/VR Development
+"Flask, Node.js",Data Science,3,Pandas & NumPy Crash Course
+"Java, TensorFlow",Web Development,1,JavaScript Masterclass
+"Tableau, Git",Software Engineering,7,Full Stack Web Development
+"TensorFlow, HTML, GCP, R",AR/VR,10,AR/VR Development
+"Django, Git, Flask, PyTorch, Linux",AI/ML,6,Intro to Machine Learning
+"R, Machine Learning, Linux, Django, SQL, HTML",Game Development,6,Game Design with Unity
+"R, Azure, JavaScript, Kubernetes, Python, GCP",Data Science,4,Data Science Bootcamp
+"TensorFlow, NumPy, Flask, Kubernetes, JavaScript, Linux",Business Intelligence,5,Cybersecurity Fundamentals
+"CSS, Tableau, Git, Azure",Software Engineering,0,Power BI Data Analysis
+"GCP, Tableau, Git, Python, JavaScript, CSS",Software Engineering,1,JavaScript Masterclass
+"PyTorch, Scikit-learn",AR/VR,0,AR/VR Development
+"Azure, Java, Flask",Business Intelligence,3,Pandas & NumPy Crash Course
+"GCP, Linux, Java",Cybersecurity,8,Cybersecurity Fundamentals
+"JavaScript, Kubernetes, Tableau, Azure",IoT,5,IoT Development with Raspberry Pi
+"Scikit-learn, GCP, Deep Learning, Kubernetes, Angular, JavaScript",DevOps,2,Linux for Developers
+"JavaScript, TensorFlow, React, Node.js, Java, NumPy",IoT,2,IoT Development with Raspberry Pi
+"NumPy, Keras, Java, Django, Power BI",AR/VR,10,AR/VR Development
+"Docker, Pandas, Angular, AWS, TensorFlow",AI/ML,2,AI for Everyone
+"HTML, GCP, NumPy, Keras, JavaScript",Cloud Computing,4,Kubernetes Hands-On
+"Docker, PyTorch, Tableau",Data Science,8,Data Science Bootcamp
+"NumPy, Pandas, R, Flask, JavaScript",DevOps,3,Docker Essentials
+"Tableau, PyTorch",Web Development,1,JavaScript Masterclass
+"Java, Node.js, Flask",AR/VR,9,AR/VR Development
+"Java, Linux, C++, CSS, Docker, GCP",IoT,10,IoT Development with Raspberry Pi
+"CSS, Keras, Power BI, Linux, Angular, React",Data Science,3,Deep Learning Specialization
+"Azure, GCP",Business Intelligence,3,JavaScript Masterclass
+"Flask, Tableau, JavaScript",Game Development,5,Game Design with Unity
+"Flask, PyTorch, NumPy, Machine Learning",Web Development,4,React for Beginners
+"Pandas, Git, Keras, PyTorch",Software Engineering,7,Kubernetes Hands-On
+"Django, Angular, TensorFlow",Data Science,9,Deep Learning Specialization
+"Python, Node.js, NumPy",IoT,9,IoT Development with Raspberry Pi
+"React, R, CSS, Angular, JavaScript",AI/ML,9,Deep Learning Specialization
+"NumPy, Machine Learning, Power BI, Deep Learning, Angular",DevOps,7,Linux for Developers
+"PyTorch, HTML, Azure, Docker, Django",Cybersecurity,2,Cybersecurity Fundamentals
+"Keras, HTML, Git, NumPy, Machine Learning, Java",Game Development,0,Game Design with Unity
+"Power BI, Kubernetes",AR/VR,0,AR/VR Development
+"TensorFlow, R",AR/VR,3,AR/VR Development
+"AWS, R",Data Science,3,Pandas & NumPy Crash Course
+"Django, Java, Scikit-learn, Machine Learning, Deep Learning",IoT,7,IoT Development with Raspberry Pi
+"Python, NumPy, TensorFlow, Pandas, Azure",DevOps,8,Docker Essentials
+"Pandas, Kubernetes",AR/VR,6,AR/VR Development
+"SQL, Tableau, Pandas",Cybersecurity,3,Cybersecurity Fundamentals
+"Scikit-learn, Pandas, Node.js",Web Development,4,React for Beginners
+"Django, Power BI",AI/ML,7,Pandas & NumPy Crash Course
+"AWS, JavaScript, React",AR/VR,1,AR/VR Development
+"C++, Flask",AI/ML,6,Pandas & NumPy Crash Course
+"Java, Machine Learning, Python, AWS, HTML",Software Engineering,7,Power BI Data Analysis
+"Matplotlib, Linux, SQL, Git",Game Development,0,Game Design with Unity
+"CSS, Git, Linux",IoT,7,IoT Development with Raspberry Pi
+"Java, Tableau, C++, Deep Learning",DevOps,8,Linux for Developers
+"HTML, Tableau",Web Development,0,Full Stack Web Development
+"R, GCP, Kubernetes, AWS, Git, Flask",Software Engineering,4,React for Beginners
+"JavaScript, Matplotlib, Kubernetes, Linux, Flask, Deep Learning",Game Development,5,Game Design with Unity
+"GCP, Azure, R, Docker, AWS",Software Engineering,8,IoT Development with Raspberry Pi
+"SQL, TensorFlow",Cloud Computing,1,Docker Essentials
+"GCP, Scikit-learn, Tableau, Flask, Power BI, Angular",Data Science,10,AI for Everyone
+"Keras, JavaScript, Django, NumPy, Power BI",AI/ML,6,Deep Learning Specialization
+"Deep Learning, Flask, C++, GCP, Scikit-learn, React",Cloud Computing,1,Cloud Architecture with AWS
+"R, Flask, AWS, Docker",AR/VR,2,AR/VR Development
+"Angular, Django, SQL, C++, Python",DevOps,7,Docker Essentials
+"SQL, R, C++, HTML",AI/ML,7,Pandas & NumPy Crash Course
+"Pandas, TensorFlow, SQL, Python, C++, Django",Game Development,1,Game Design with Unity
+"Scikit-learn, Docker, Angular, Linux, Flask, Python",DevOps,6,Docker Essentials
+"Azure, Git",Game Development,3,Game Design with Unity
+"Pandas, HTML, Deep Learning, Flask, Tableau, R",DevOps,4,Docker Essentials
+"R, C++, HTML, TensorFlow, Node.js",AI/ML,4,Data Science Bootcamp
+"Django, Node.js",Cloud Computing,10,Docker Essentials
+"Scikit-learn, CSS, PyTorch, SQL, R, React",Data Science,6,AI for Everyone
+"Flask, Docker, Linux, Angular, PyTorch, Git",AI/ML,10,Pandas & NumPy Crash Course
+"React, Angular, Scikit-learn",Cloud Computing,7,Docker Essentials
+"Power BI, Flask, Angular",DevOps,10,Docker Essentials
+"Docker, JavaScript, Angular, Flask, Node.js, Power BI",AI/ML,5,Intro to Machine Learning
+"CSS, Matplotlib, NumPy, HTML, Deep Learning, GCP",Game Development,0,Game Design with Unity
+"Power BI, AWS, CSS, PyTorch, Docker",DevOps,1,Docker Essentials
+"R, Machine Learning, React, JavaScript, Node.js",AR/VR,2,AR/VR Development
+"Docker, Flask, C++, PyTorch, Scikit-learn",Business Intelligence,9,Mastering SQL
+"Pandas, Tableau, Linux, AWS, TensorFlow, NumPy",Data Science,5,Pandas & NumPy Crash Course
+"Machine Learning, Tableau, C++, SQL, GCP, JavaScript",AR/VR,10,AR/VR Development
+"HTML, Machine Learning, Scikit-learn, Java",IoT,10,IoT Development with Raspberry Pi
+"Power BI, GCP, Angular, Docker, TensorFlow",Software Engineering,0,Deep Learning Specialization
+"JavaScript, Pandas, Azure, NumPy",IoT,9,IoT Development with Raspberry Pi
+"PyTorch, Django, Flask",Business Intelligence,10,AR/VR Development
+"R, Django, Python, Keras, SQL, React",AI/ML,1,Intro to Machine Learning
+"Django, React, Angular",Business Intelligence,3,Linux for Developers
+"Django, Keras, SQL, PyTorch, Azure",Business Intelligence,5,Cloud Architecture with AWS
+"Java, Docker, AWS, SQL",Data Science,5,Intro to Machine Learning
+"Tableau, Azure, JavaScript",Game Development,2,Game Design with Unity
+"HTML, Angular, NumPy, TensorFlow, PyTorch, JavaScript",AI/ML,10,Deep Learning Specialization
+"Machine Learning, Deep Learning, TensorFlow",AI/ML,0,Pandas & NumPy Crash Course
+"PyTorch, Matplotlib, TensorFlow",AI/ML,0,Deep Learning Specialization
+"Node.js, GCP, AWS",Software Engineering,9,Deep Learning Specialization
+"HTML, Django, Angular, CSS, PyTorch, SQL",DevOps,10,Docker Essentials
+"Power BI, Machine Learning, Angular, Scikit-learn, Flask, Linux",AI/ML,9,Intro to Machine Learning
+"Django, Linux, PyTorch, Scikit-learn",Cybersecurity,10,Cybersecurity Fundamentals
+"Tableau, Scikit-learn, Matplotlib, C++",AR/VR,2,AR/VR Development
+"SQL, JavaScript, React, HTML",Web Development,2,JavaScript Masterclass
+"TensorFlow, Scikit-learn, R, Matplotlib, Flask",AI/ML,2,Data Science Bootcamp
+"AWS, Tableau, Machine Learning, HTML, NumPy, Linux",Business Intelligence,4,Cybersecurity Fundamentals
+"Angular, Kubernetes, PyTorch",IoT,0,IoT Development with Raspberry Pi
+"Power BI, Python, Keras, R",Cloud Computing,6,Kubernetes Hands-On
+"Machine Learning, Keras, TensorFlow, Deep Learning, Tableau, Git",Business Intelligence,7,React for Beginners
+"Matplotlib, Python",Cloud Computing,4,Cloud Architecture with AWS
+"JavaScript, NumPy, React, HTML",Business Intelligence,9,Docker Essentials
+"Pandas, SQL, Matplotlib, Tableau, Node.js, GCP",Game Development,5,Game Design with Unity
+"Kubernetes, GCP, Java, Tableau, Azure, PyTorch",Game Development,3,Game Design with Unity
+"SQL, Azure, Kubernetes, Machine Learning, GCP",Cloud Computing,4,Cloud Architecture with AWS
+"Node.js, Django, Linux, Kubernetes, C++",Business Intelligence,1,DevOps Engineering
+"Docker, Azure, Matplotlib",Web Development,9,JavaScript Masterclass
+"HTML, Scikit-learn, R, Docker, CSS",Cloud Computing,0,Kubernetes Hands-On
+"NumPy, Node.js, Scikit-learn, HTML",Web Development,4,React for Beginners
+"Node.js, Linux, Pandas, Deep Learning, Kubernetes, SQL",Cybersecurity,6,Cybersecurity Fundamentals
+"Node.js, Linux",AR/VR,2,AR/VR Development
+"JavaScript, R, AWS",Web Development,3,JavaScript Masterclass
+"Keras, R, Matplotlib, Machine Learning, Node.js",AR/VR,6,AR/VR Development
+"PyTorch, C++, Machine Learning, Docker, Git",Software Engineering,6,Linux for Developers
+"AWS, Tableau, Git, Django",Business Intelligence,7,Kubernetes Hands-On
+"Python, Linux, GCP, Tableau, Azure, C++",Business Intelligence,10,IoT Development with Raspberry Pi
+"Docker, NumPy",AI/ML,3,Data Science Bootcamp
+"Keras, Node.js, Angular",DevOps,5,Linux for Developers
+"R, Matplotlib, Linux, Keras, Docker, Angular",AR/VR,0,AR/VR Development
+"SQL, Machine Learning",Business Intelligence,0,Deep Learning Specialization
+"PyTorch, Python, Power BI",AI/ML,3,Deep Learning Specialization
+"HTML, Linux, Tableau, Git",DevOps,1,Linux for Developers
+"Node.js, C++, Django, Deep Learning",AR/VR,2,AR/VR Development
+"Flask, Machine Learning",DevOps,3,Docker Essentials
+"AWS, SQL",Data Science,3,Data Science Bootcamp
+"R, Matplotlib",Cloud Computing,8,Kubernetes Hands-On
+"Python, AWS, Angular, Kubernetes, SQL",AI/ML,2,Data Science Bootcamp
+"JavaScript, Flask",Software Engineering,1,Deep Learning Specialization
+"Django, Git, React, R",AI/ML,2,Deep Learning Specialization
+"Pandas, Matplotlib",Data Science,9,Deep Learning Specialization
+"Django, Azure, CSS, Machine Learning, R",AI/ML,9,Data Science Bootcamp
+"C++, Git, SQL",Cybersecurity,1,Cybersecurity Fundamentals
+"Azure, Flask, Django, TensorFlow, Angular, Docker",Cybersecurity,3,Cybersecurity Fundamentals
+"Machine Learning, C++, JavaScript, NumPy",IoT,9,IoT Development with Raspberry Pi
+"React, GCP, AWS, Python, Deep Learning, Power BI",Cloud Computing,8,Kubernetes Hands-On
+"CSS, Azure, Flask, React, Machine Learning, Java",Cloud Computing,7,Docker Essentials
+"JavaScript, Keras",AR/VR,9,AR/VR Development
+"Pandas, Git",Data Science,5,AI for Everyone
+"Flask, Linux, Kubernetes",IoT,6,IoT Development with Raspberry Pi
+"NumPy, Deep Learning, HTML, GCP",Business Intelligence,1,Intro to Machine Learning
+"C++, Python, Node.js, CSS, Java, Kubernetes",AI/ML,8,AI for Everyone
+"GCP, TensorFlow, Tableau, AWS, Flask, C++",AR/VR,8,AR/VR Development
+"Scikit-learn, R, Node.js, C++, React, Linux",Game Development,3,Game Design with Unity
+"NumPy, Angular, Flask",IoT,10,IoT Development with Raspberry Pi
+"React, AWS",AI/ML,3,Intro to Machine Learning
+"C++, Tableau, TensorFlow",Software Engineering,7,JavaScript Masterclass
+"Java, React, Deep Learning, Azure, Git, Linux",Cybersecurity,1,Cybersecurity Fundamentals
+"AWS, R",Data Science,2,Data Science Bootcamp
+"Pandas, Docker, Kubernetes, Azure",DevOps,2,Docker Essentials
+"Azure, GCP, Linux",DevOps,1,DevOps Engineering
+"Docker, TensorFlow, Node.js, Pandas",Software Engineering,4,AR/VR Development
+"Keras, PyTorch",Game Development,5,Game Design with Unity
+"Keras, Linux",IoT,2,IoT Development with Raspberry Pi
+"HTML, Node.js, GCP, SQL",IoT,10,IoT Development with Raspberry Pi
+"JavaScript, Azure",Game Development,0,Game Design with Unity
+"Linux, Python",Cloud Computing,0,Docker Essentials
+"Flask, Tableau, R, HTML",Data Science,8,Data Science Bootcamp
+"Angular, JavaScript, TensorFlow",Web Development,4,Full Stack Web Development
+"Django, SQL, Pandas, Deep Learning, Java, HTML",Cloud Computing,8,Cloud Architecture with AWS
+"C++, Git, PyTorch, Linux, React",DevOps,5,DevOps Engineering
+"PyTorch, Python, Django, CSS, React, Matplotlib",DevOps,9,DevOps Engineering
+"Django, Matplotlib, Keras, GCP, CSS",Game Development,3,Game Design with Unity
+"Python, Tableau, TensorFlow",Data Science,3,Pandas & NumPy Crash Course
+"Machine Learning, Kubernetes, AWS, Git",Data Science,5,Intro to Machine Learning
+"Linux, Azure, React, SQL, CSS",Game Development,3,Game Design with Unity
+"Keras, Power BI, Java, R, AWS",DevOps,1,DevOps Engineering
+"Git, Linux, Pandas",AI/ML,5,Data Science Bootcamp
+"Matplotlib, SQL",Game Development,2,Game Design with Unity
+"C++, Matplotlib, Java, TensorFlow, Deep Learning",Cybersecurity,3,Cybersecurity Fundamentals
+"Node.js, Linux, Angular, Tableau",AI/ML,5,AI for Everyone
+"Node.js, JavaScript, C++, Power BI, CSS",Cybersecurity,9,Cybersecurity Fundamentals
+"R, SQL",Cybersecurity,7,Cybersecurity Fundamentals
+"Angular, TensorFlow, SQL, NumPy, Django",Cloud Computing,7,Docker Essentials
+"Node.js, Linux, SQL, C++, HTML",AR/VR,4,AR/VR Development
+"Java, CSS, Kubernetes, Linux, Angular, R",Software Engineering,3,IoT Development with Raspberry Pi
+"Pandas, Java, Deep Learning, React, Node.js",Cybersecurity,0,Cybersecurity Fundamentals
+"Linux, PyTorch, NumPy, Azure, JavaScript",Software Engineering,7,Deep Learning Specialization
+"SQL, Python, Java",Cloud Computing,2,Cloud Architecture with AWS
+"Django, Deep Learning, Machine Learning, Power BI, C++",IoT,9,IoT Development with Raspberry Pi
+"Tableau, Kubernetes, C++, Python",Software Engineering,3,Advanced Python Programming
+"C++, Git, Linux",Web Development,1,Full Stack Web Development
+"Java, HTML, Tableau, Matplotlib, TensorFlow",AI/ML,7,Intro to Machine Learning
+"Deep Learning, TensorFlow, HTML, Django, CSS",Cybersecurity,4,Cybersecurity Fundamentals
+"PyTorch, Git, R, Java",IoT,9,IoT Development with Raspberry Pi
+"JavaScript, Machine Learning, React, Keras, TensorFlow, NumPy",Business Intelligence,0,Cloud Architecture with AWS
+"Flask, R, TensorFlow, CSS",AR/VR,8,AR/VR Development
+"Machine Learning, Docker, NumPy",Data Science,6,AI for Everyone
+"NumPy, Docker, Keras, Django, Tableau",IoT,8,IoT Development with Raspberry Pi
+"Flask, Node.js, HTML, Python",Web Development,9,Full Stack Web Development
+"Git, Docker",DevOps,0,Docker Essentials
+"Django, GCP, Matplotlib, JavaScript, HTML, SQL",Cloud Computing,10,Cloud Architecture with AWS
+"NumPy, Kubernetes, Docker, Tableau",Data Science,3,Pandas & NumPy Crash Course
+"Django, Tableau, Kubernetes, Linux, HTML",Cybersecurity,3,Cybersecurity Fundamentals
+"Angular, Docker, Azure, AWS, Django, Matplotlib",Data Science,5,Pandas & NumPy Crash Course
+"R, Matplotlib, CSS, Kubernetes, Docker, Keras",Game Development,4,Game Design with Unity
+"Keras, Java, C++",Data Science,3,Pandas & NumPy Crash Course
+"Python, Pandas, Keras",Data Science,5,Pandas & NumPy Crash Course
+"Docker, R, Angular",Cybersecurity,5,Cybersecurity Fundamentals
+"Python, R",IoT,2,IoT Development with Raspberry Pi
+"Linux, Pandas",Web Development,1,React for Beginners
+"Matplotlib, SQL, Angular, React, R",Cybersecurity,6,Cybersecurity Fundamentals
+"Machine Learning, Angular, HTML, AWS, Power BI",Game Development,9,Game Design with Unity
+"JavaScript, Deep Learning, Matplotlib, Kubernetes",Cybersecurity,6,Cybersecurity Fundamentals
+"Azure, AWS, React, R",Cybersecurity,0,Cybersecurity Fundamentals
+"Flask, Linux, GCP, Matplotlib, Java, HTML",IoT,5,IoT Development with Raspberry Pi
+"JavaScript, Machine Learning, Matplotlib, SQL, Keras, R",Web Development,1,Full Stack Web Development
+"Angular, HTML, Machine Learning, Git",Software Engineering,10,Kubernetes Hands-On
+"Python, Node.js, CSS, JavaScript, AWS",Software Engineering,5,Game Design with Unity
+"Azure, Python",Data Science,6,Data Science Bootcamp
+"HTML, Git, TensorFlow, Keras, Flask",Web Development,8,React for Beginners
+"Kubernetes, Keras",IoT,10,IoT Development with Raspberry Pi
+"HTML, PyTorch, C++",Data Science,4,Intro to Machine Learning
+"Node.js, Power BI, SQL, C++",Web Development,2,React for Beginners
+"Azure, C++, NumPy",Software Engineering,5,JavaScript Masterclass
+"Git, Keras, AWS, Python, TensorFlow, Machine Learning",Cybersecurity,9,Cybersecurity Fundamentals
+"HTML, Java, SQL, Angular, CSS",Cloud Computing,6,Kubernetes Hands-On
+"Azure, Tableau, Power BI, NumPy, Node.js, Deep Learning",DevOps,4,DevOps Engineering
+"Java, Flask",IoT,8,IoT Development with Raspberry Pi
+"R, Java, Django, Python, TensorFlow",Software Engineering,4,JavaScript Masterclass
+"CSS, SQL, Python, HTML, Machine Learning",DevOps,1,Docker Essentials
+"React, Docker",AI/ML,7,Data Science Bootcamp
+"C++, Machine Learning, NumPy, Flask",Cybersecurity,5,Cybersecurity Fundamentals
+"Django, HTML, PyTorch, Java, Node.js",Business Intelligence,7,Game Design with Unity
+"Kubernetes, Node.js, Matplotlib",Data Science,2,Intro to Machine Learning
+"Deep Learning, Django",Game Development,6,Game Design with Unity
+"JavaScript, NumPy, Java, Kubernetes, Flask, Pandas",AI/ML,8,Data Science Bootcamp
+"Git, JavaScript, Keras, React, C++, Flask",Data Science,8,Pandas & NumPy Crash Course
+"Docker, Matplotlib, Deep Learning, Scikit-learn, R, SQL",Business Intelligence,2,React for Beginners
+"Docker, CSS, R",Data Science,6,Intro to Machine Learning
+"CSS, Kubernetes, Machine Learning, R, Scikit-learn",DevOps,5,Linux for Developers
+"C++, Flask",Game Development,6,Game Design with Unity
+"Angular, Linux, Node.js, Pandas, PyTorch, Python",IoT,9,IoT Development with Raspberry Pi
+"Docker, TensorFlow, SQL, Tableau, R, Kubernetes",IoT,9,IoT Development with Raspberry Pi
+"GCP, SQL, Tableau, Matplotlib, Power BI, Git",DevOps,8,Docker Essentials
+"Node.js, Flask, Machine Learning, Keras, Matplotlib",IoT,7,IoT Development with Raspberry Pi
+"HTML, Node.js",AI/ML,2,Pandas & NumPy Crash Course
+"Deep Learning, AWS, Flask, Java, Git, Angular",Cloud Computing,0,Kubernetes Hands-On
+"Tableau, Node.js, Git, Django, Python",Web Development,4,React for Beginners
+"Kubernetes, Keras, Linux, AWS",AR/VR,1,AR/VR Development
+"R, React, Azure",Business Intelligence,5,Game Design with Unity
+"Scikit-learn, Machine Learning, C++, CSS, PyTorch",Cloud Computing,6,Kubernetes Hands-On
+"GCP, Pandas, Linux, Django, Kubernetes",Data Science,8,Deep Learning Specialization
+"React, AWS",Game Development,6,Game Design with Unity
+"GCP, Linux, Pandas",IoT,0,IoT Development with Raspberry Pi
+"CSS, Git, Kubernetes",Cloud Computing,0,Cloud Architecture with AWS
+"PyTorch, Java",Web Development,3,React for Beginners
+"Kubernetes, PyTorch, Pandas, Flask",AR/VR,1,AR/VR Development
+"JavaScript, Django",Business Intelligence,9,Advanced Python Programming
+"Power BI, Linux, Keras",IoT,8,IoT Development with Raspberry Pi
+"Django, HTML, Kubernetes, Git",DevOps,1,Docker Essentials
+"Flask, Java",Cybersecurity,9,Cybersecurity Fundamentals
+"Linux, JavaScript, Machine Learning",Cloud Computing,10,Cloud Architecture with AWS
+"Machine Learning, TensorFlow, Pandas, Python",AR/VR,0,AR/VR Development
+"Tableau, R, Machine Learning, HTML, Scikit-learn",Data Science,3,AI for Everyone
+"Docker, React, AWS, Git, Machine Learning, Node.js",AI/ML,6,AI for Everyone
+"Node.js, CSS, PyTorch, React, Deep Learning",Game Development,9,Game Design with Unity
+"Matplotlib, SQL, Python, Pandas, Deep Learning",Web Development,8,JavaScript Masterclass
+"Scikit-learn, React, Tableau, Deep Learning, SQL, Keras",Software Engineering,5,Game Design with Unity
+"Linux, Node.js, Machine Learning, AWS",AR/VR,4,AR/VR Development
+"R, Pandas, GCP",Cloud Computing,0,Kubernetes Hands-On
+"Deep Learning, Angular, R, Azure, Python",AR/VR,7,AR/VR Development
+"Node.js, Tableau, TensorFlow, Flask",AI/ML,0,Pandas & NumPy Crash Course
+"Kubernetes, CSS, Angular, Azure, AWS, JavaScript",AR/VR,8,AR/VR Development
+"Tableau, Power BI, Deep Learning, Django, Pandas",DevOps,2,Linux for Developers
+"HTML, React, SQL, Keras, R, Azure",DevOps,8,DevOps Engineering
+"Machine Learning, C++, JavaScript, Django",Cloud Computing,4,Docker Essentials
+"Django, Node.js, Matplotlib, React",Business Intelligence,1,Docker Essentials
+"Linux, Machine Learning",IoT,9,IoT Development with Raspberry Pi
+"C++, Keras, Git, CSS, Pandas, SQL",AR/VR,6,AR/VR Development
+"React, TensorFlow, Java, Linux, R, Kubernetes",Cloud Computing,5,Docker Essentials
+"Git, Tableau, PyTorch, R, Angular, AWS",Cybersecurity,1,Cybersecurity Fundamentals
+"Angular, Machine Learning, HTML, Java, Python",Business Intelligence,4,Data Science Bootcamp
+"Matplotlib, GCP, HTML",Business Intelligence,1,Cybersecurity Fundamentals
+"TensorFlow, Machine Learning, Power BI, Flask, Git, Keras",AI/ML,0,Intro to Machine Learning
+"CSS, Azure, Django, Python, Angular, GCP",Game Development,3,Game Design with Unity
+"Deep Learning, Python",AR/VR,3,AR/VR Development
+"AWS, Git, Django",DevOps,2,DevOps Engineering
+"Pandas, Matplotlib, React, HTML, C++",Data Science,4,AI for Everyone
+"Azure, Pandas, Scikit-learn, Angular, TensorFlow",AR/VR,2,AR/VR Development
+"Git, Keras, Django, GCP",Cloud Computing,2,Docker Essentials
+"JavaScript, Azure",Cybersecurity,3,Cybersecurity Fundamentals
+"Matplotlib, Pandas",Cybersecurity,1,Cybersecurity Fundamentals
+"AWS, Machine Learning, Docker, Java",AI/ML,10,AI for Everyone
+"Scikit-learn, Java, Power BI, Tableau, Deep Learning, SQL",AR/VR,0,AR/VR Development
+"AWS, SQL",AI/ML,7,Data Science Bootcamp
+"NumPy, Node.js",Business Intelligence,2,Data Science Bootcamp
+"React, TensorFlow",AR/VR,1,AR/VR Development
+"Node.js, Scikit-learn, Tableau, AWS, R, TensorFlow",Software Engineering,8,JavaScript Masterclass
+"React, SQL",Software Engineering,7,Data Science Bootcamp
+"CSS, GCP, Node.js, Kubernetes, Pandas, Power BI",Web Development,6,React for Beginners
+"Java, NumPy, Keras",Cloud Computing,7,Docker Essentials
+"Python, Deep Learning, C++",Software Engineering,9,Docker Essentials
+"Power BI, C++, GCP",Game Development,1,Game Design with Unity
+"Git, Node.js",AR/VR,3,AR/VR Development
+"React, Node.js, PyTorch, Java, SQL",Cybersecurity,0,Cybersecurity Fundamentals
+"Django, Docker, Deep Learning, Angular",AI/ML,1,Intro to Machine Learning
+"Python, Linux",Cybersecurity,10,Cybersecurity Fundamentals
+"Angular, Django, Git",Business Intelligence,9,Game Design with Unity
+"Django, Kubernetes",Web Development,2,Full Stack Web Development
+"Flask, Power BI, PyTorch, Node.js, Kubernetes",AI/ML,7,Data Science Bootcamp
+"SQL, R, AWS",Data Science,2,Intro to Machine Learning
+"Tableau, Matplotlib, Keras, Docker, Deep Learning",Business Intelligence,2,JavaScript Masterclass
+"GCP, Django, Scikit-learn, Python, Linux",AR/VR,2,AR/VR Development
+"Tableau, Keras, SQL, Git, TensorFlow",Business Intelligence,0,Cloud Architecture with AWS
+"Machine Learning, Angular, Python, AWS",AR/VR,8,AR/VR Development
+"Azure, Matplotlib, JavaScript, Deep Learning, Angular, Pandas",Game Development,9,Game Design with Unity
+"TensorFlow, Deep Learning",Cloud Computing,7,Docker Essentials
+"R, Kubernetes, NumPy, Git, Scikit-learn",Data Science,0,Deep Learning Specialization
+"Linux, Keras, Power BI, Tableau, HTML, C++",Business Intelligence,5,DevOps Engineering
+"Node.js, Java, Pandas, JavaScript",Game Development,10,Game Design with Unity
+"Flask, Kubernetes, JavaScript, C++, PyTorch",Business Intelligence,9,Advanced Python Programming
+"Linux, Keras",Business Intelligence,5,Deep Learning Specialization
+"Azure, Machine Learning, Python, SQL, Flask",AI/ML,0,Pandas & NumPy Crash Course
+"Python, Kubernetes, C++, Docker, Scikit-learn, Tableau",AR/VR,4,AR/VR Development
+"NumPy, CSS, Machine Learning, Deep Learning, PyTorch, Angular",Web Development,0,Full Stack Web Development
+"Angular, NumPy, GCP, Scikit-learn, Keras",AR/VR,5,AR/VR Development
+"SQL, GCP, Deep Learning, JavaScript, Python",Web Development,5,JavaScript Masterclass
+"NumPy, Pandas, Django, AWS",Software Engineering,0,React for Beginners
+"R, Kubernetes, AWS, Azure, TensorFlow",Software Engineering,4,JavaScript Masterclass
+"CSS, SQL, Tableau",AI/ML,3,Data Science Bootcamp
+"AWS, Angular, SQL",AI/ML,0,Pandas & NumPy Crash Course
+"GCP, Git",Business Intelligence,7,AR/VR Development
+"R, Keras, Python, Pandas, Azure, Java",Game Development,6,Game Design with Unity
+"Keras, Tableau, Pandas, GCP, HTML, AWS",IoT,2,IoT Development with Raspberry Pi
+"SQL, Flask, Deep Learning",IoT,9,IoT Development with Raspberry Pi
+"Pandas, Git, Flask, TensorFlow",IoT,3,IoT Development with Raspberry Pi
+"Flask, Power BI, Angular, React",Business Intelligence,2,Cybersecurity Fundamentals
+"Scikit-learn, AWS, Git, Azure, Pandas",DevOps,8,Docker Essentials
+"Machine Learning, CSS, Tableau, Git, Scikit-learn, AWS",DevOps,10,Docker Essentials
+"AWS, Machine Learning, Power BI",Cybersecurity,8,Cybersecurity Fundamentals
+"AWS, Machine Learning, Angular, Power BI, SQL, GCP",Web Development,8,React for Beginners
+"Matplotlib, Deep Learning, AWS, TensorFlow, Tableau, Azure",Game Development,4,Game Design with Unity
+"Docker, Python, Pandas, SQL, Flask",Cybersecurity,0,Cybersecurity Fundamentals
+"CSS, Node.js",Cybersecurity,4,Cybersecurity Fundamentals
+"R, Kubernetes, Java, AWS",DevOps,3,Linux for Developers
+"Django, Kubernetes",Business Intelligence,1,JavaScript Masterclass
+"Linux, JavaScript, Azure, Machine Learning, NumPy, Flask",Cloud Computing,8,Kubernetes Hands-On
+"AWS, Deep Learning, Java, Tableau",AI/ML,6,Data Science Bootcamp
+"Power BI, NumPy, Java, Python",DevOps,3,Linux for Developers
+"Kubernetes, JavaScript, Tableau, Machine Learning, AWS",AR/VR,5,AR/VR Development
+"NumPy, Azure, Scikit-learn, CSS, GCP, Tableau",Cloud Computing,4,Docker Essentials
+"Deep Learning, C++, HTML",Cybersecurity,8,Cybersecurity Fundamentals
+"Flask, Java",AI/ML,4,Pandas & NumPy Crash Course
+"R, HTML, Matplotlib, Linux",DevOps,0,Docker Essentials
+"AWS, Tableau, R, Java, Angular",IoT,0,IoT Development with Raspberry Pi
+"Kubernetes, Deep Learning, React, Keras, Docker, Matplotlib",Game Development,5,Game Design with Unity
+"Docker, AWS",Web Development,8,Full Stack Web Development
+"Pandas, C++, Docker",Game Development,2,Game Design with Unity
+"NumPy, Flask, C++, Django, JavaScript",Cloud Computing,10,Docker Essentials
+"Django, React, CSS, Power BI",IoT,8,IoT Development with Raspberry Pi
+"NumPy, Kubernetes, GCP, Machine Learning, Python",Software Engineering,10,IoT Development with Raspberry Pi
+"JavaScript, Git, Machine Learning, Scikit-learn, Tableau",IoT,3,IoT Development with Raspberry Pi
+"Deep Learning, Git",Web Development,6,Full Stack Web Development
+"Node.js, NumPy, Azure, React, Python",Game Development,5,Game Design with Unity
+"Docker, Pandas, PyTorch, Keras, Java, React",AR/VR,3,AR/VR Development
+"Pandas, C++, Power BI, SQL",Cybersecurity,8,Cybersecurity Fundamentals
+"Python, Machine Learning, C++, CSS, Deep Learning, Tableau",Cloud Computing,10,Docker Essentials
+"CSS, NumPy",AI/ML,10,Intro to Machine Learning
+"Python, PyTorch, AWS",Web Development,0,Full Stack Web Development
+"Java, HTML",DevOps,8,DevOps Engineering
+"Kubernetes, JavaScript, Node.js, TensorFlow, Flask, PyTorch",AR/VR,6,AR/VR Development
+"Angular, Python, Flask, Deep Learning, SQL",Game Development,0,Game Design with Unity
+"C++, GCP, Azure, Matplotlib, Java, AWS",Software Engineering,5,Linux for Developers
+"React, Docker",AR/VR,4,AR/VR Development
+"C++, React, GCP, PyTorch, Flask, Kubernetes",AR/VR,0,AR/VR Development
+"HTML, NumPy, JavaScript, R, Azure",AI/ML,8,AI for Everyone
+"React, Deep Learning, Git",AR/VR,5,AR/VR Development
+"NumPy, Linux",Game Development,2,Game Design with Unity
+"Java, Python",IoT,9,IoT Development with Raspberry Pi
+"NumPy, Power BI, C++, React, CSS",Web Development,3,React for Beginners
+"R, HTML, Tableau, JavaScript, Scikit-learn, Node.js",Cloud Computing,1,Cloud Architecture with AWS
+"Linux, Java, Power BI, GCP, NumPy, PyTorch",AR/VR,8,AR/VR Development
+"React, Deep Learning",Software Engineering,4,Deep Learning Specialization
+"Azure, Matplotlib, Keras",Web Development,5,Full Stack Web Development
+"SQL, React, Scikit-learn",Software Engineering,3,Kubernetes Hands-On
+"PyTorch, Angular, Scikit-learn, Deep Learning, React",IoT,2,IoT Development with Raspberry Pi
+"Matplotlib, Django, Docker, Angular, TensorFlow, HTML",Data Science,5,Deep Learning Specialization
+"AWS, Azure, Machine Learning",AI/ML,4,AI for Everyone
+"Deep Learning, Azure, Angular",Business Intelligence,7,Advanced Python Programming
+"GCP, React, Keras, NumPy",Software Engineering,2,JavaScript Masterclass
+"Kubernetes, Node.js",Cybersecurity,8,Cybersecurity Fundamentals
+"Node.js, Azure, Git",AR/VR,1,AR/VR Development
+"Git, Python",Game Development,10,Game Design with Unity
+"Kubernetes, Matplotlib",IoT,6,IoT Development with Raspberry Pi
+"CSS, Tableau, Java, NumPy, Node.js, Linux",Game Development,7,Game Design with Unity
+"Django, Flask, JavaScript",IoT,4,IoT Development with Raspberry Pi
+"PyTorch, Pandas, C++",AI/ML,5,Pandas & NumPy Crash Course
+"Deep Learning, JavaScript",IoT,10,IoT Development with Raspberry Pi
+"GCP, Pandas, R",Business Intelligence,2,React for Beginners
+"Power BI, Matplotlib, Deep Learning, Linux, R, Azure",Business Intelligence,5,Full Stack Web Development
+"GCP, Keras, JavaScript",Software Engineering,4,IoT Development with Raspberry Pi
+"Java, Deep Learning, CSS",Game Development,5,Game Design with Unity
+"Keras, Tableau, PyTorch, Git, Java",Data Science,10,AI for Everyone
+"AWS, Power BI",Game Development,10,Game Design with Unity
+"Kubernetes, Azure, Node.js, Matplotlib",Game Development,9,Game Design with Unity
+"Flask, Machine Learning, Django",IoT,10,IoT Development with Raspberry Pi
+"Pandas, Node.js",AI/ML,3,Pandas & NumPy Crash Course
+"Django, Kubernetes, Linux, Keras, Docker",Business Intelligence,9,Intro to Machine Learning
+"Git, R, PyTorch, HTML, JavaScript, C++",Game Development,10,Game Design with Unity
+"CSS, R, HTML, Django",IoT,1,IoT Development with Raspberry Pi
+"TensorFlow, Docker, Angular",Software Engineering,7,Docker Essentials
+"CSS, Matplotlib, HTML, Machine Learning, Kubernetes",AI/ML,0,Deep Learning Specialization
+"R, Matplotlib",IoT,2,IoT Development with Raspberry Pi
+"Machine Learning, Pandas, Java",IoT,2,IoT Development with Raspberry Pi
+"HTML, Node.js",Cybersecurity,8,Cybersecurity Fundamentals
+"Scikit-learn, Matplotlib, Machine Learning, Python, Git",AR/VR,4,AR/VR Development
+"CSS, PyTorch",IoT,7,IoT Development with Raspberry Pi
+"HTML, JavaScript, Kubernetes, TensorFlow, Scikit-learn",Cybersecurity,9,Cybersecurity Fundamentals
+"Scikit-learn, Deep Learning, Pandas",DevOps,2,Linux for Developers
+"Tableau, PyTorch, Scikit-learn, Matplotlib",Software Engineering,3,Mastering SQL
+"R, SQL, Python, CSS, Pandas",Game Development,10,Game Design with Unity
+"Kubernetes, R, Scikit-learn, SQL, HTML",Business Intelligence,9,JavaScript Masterclass
+"Git, Docker",Game Development,8,Game Design with Unity
+"C++, Keras",AR/VR,2,AR/VR Development
+"NumPy, Kubernetes, Python, GCP, Deep Learning, Machine Learning",AI/ML,8,Data Science Bootcamp
+"Linux, Java, AWS, Pandas",AI/ML,3,Data Science Bootcamp
+"Django, Matplotlib, Docker, Azure, Tableau",IoT,1,IoT Development with Raspberry Pi
+"R, Node.js, Keras, GCP, JavaScript",Software Engineering,4,JavaScript Masterclass
+"TensorFlow, Node.js, CSS, Python, AWS, Azure",Data Science,9,Pandas & NumPy Crash Course
+"Pandas, Python",AI/ML,10,Deep Learning Specialization
+"TensorFlow, Django, SQL, R",AI/ML,10,Pandas & NumPy Crash Course
+"Node.js, Linux, NumPy, TensorFlow",IoT,5,IoT Development with Raspberry Pi
+"Node.js, Deep Learning, Flask, GCP, CSS, TensorFlow",Game Development,8,Game Design with Unity
+"HTML, Django, NumPy, Keras, Node.js",DevOps,9,Docker Essentials
+"Azure, R, Linux, Deep Learning, SQL",Cloud Computing,7,Kubernetes Hands-On
+"SQL, CSS, Pandas",AI/ML,5,Pandas & NumPy Crash Course
+"AWS, Deep Learning, Power BI, Java, HTML, Flask",AR/VR,0,AR/VR Development
+"Kubernetes, R",Business Intelligence,9,Power BI Data Analysis
+"C++, Node.js",Cloud Computing,5,Cloud Architecture with AWS
+"Java, Azure, Flask, Git, Scikit-learn, Machine Learning",Game Development,4,Game Design with Unity
+"Java, GCP, Kubernetes, HTML, Machine Learning, Keras",Business Intelligence,0,Data Science Bootcamp
+"React, CSS, Java, Docker, Scikit-learn, Pandas",Game Development,3,Game Design with Unity
+"HTML, Deep Learning, Java, Django, JavaScript, Machine Learning",Data Science,2,Intro to Machine Learning
+"GCP, Flask, Django, Deep Learning",AI/ML,6,Pandas & NumPy Crash Course
+"Pandas, Python, Azure",Software Engineering,1,Pandas & NumPy Crash Course
+"Azure, Kubernetes, NumPy, Tableau",IoT,5,IoT Development with Raspberry Pi
+"Power BI, Kubernetes, Node.js, JavaScript",IoT,3,IoT Development with Raspberry Pi
+"Tableau, Flask, Matplotlib, Python, Node.js",Cybersecurity,6,Cybersecurity Fundamentals
+"SQL, NumPy, C++, Pandas, React, Angular",Software Engineering,8,Game Design with Unity
+"Kubernetes, Docker, Matplotlib, Node.js, AWS, PyTorch",AI/ML,9,Data Science Bootcamp
+"GCP, Angular, Power BI",Business Intelligence,10,Advanced Python Programming
+"Linux, Python, Keras, SQL, Node.js, C++",AI/ML,10,Deep Learning Specialization
+"Docker, Angular, TensorFlow",Web Development,8,JavaScript Masterclass
+"AWS, Kubernetes",DevOps,3,Docker Essentials
+"Flask, Deep Learning",Web Development,1,JavaScript Masterclass
+"Keras, Angular, Django",Cloud Computing,9,Docker Essentials
+"Power BI, Azure, Deep Learning",Cloud Computing,7,Kubernetes Hands-On
+"JavaScript, Azure, Linux",DevOps,3,DevOps Engineering
+"Kubernetes, JavaScript, Scikit-learn",Web Development,2,Full Stack Web Development
+"Tableau, C++",AR/VR,10,AR/VR Development
+"Scikit-learn, Python, GCP, Linux, NumPy",Data Science,7,AI for Everyone
+"Angular, Keras, Git, Matplotlib, Node.js, Tableau",Cybersecurity,8,Cybersecurity Fundamentals
+"Flask, JavaScript, GCP, Matplotlib",Cybersecurity,0,Cybersecurity Fundamentals
+"Docker, TensorFlow, Keras, NumPy, Java, Pandas",Web Development,6,JavaScript Masterclass
+"PyTorch, SQL, AWS",Game Development,7,Game Design with Unity
+"AWS, Python, Deep Learning, CSS",AI/ML,9,Intro to Machine Learning
+"Django, Scikit-learn, Linux, Node.js",Cybersecurity,8,Cybersecurity Fundamentals
+"JavaScript, Node.js, Keras, Power BI",IoT,5,IoT Development with Raspberry Pi
+"HTML, Keras, TensorFlow, CSS",AI/ML,5,AI for Everyone
+"Node.js, PyTorch, HTML, Matplotlib, R",IoT,10,IoT Development with Raspberry Pi
+"Kubernetes, SQL, Azure",DevOps,3,Linux for Developers
+"Linux, Flask, CSS, R, Docker",Cybersecurity,7,Cybersecurity Fundamentals
+"HTML, TensorFlow",Business Intelligence,2,Linux for Developers
+"Azure, Angular, Docker, Keras, React, Node.js",Game Development,9,Game Design with Unity
+"Flask, SQL",Cybersecurity,0,Cybersecurity Fundamentals
+"Kubernetes, Node.js, Keras",AR/VR,1,AR/VR Development
+"Azure, Angular, Node.js, Django, NumPy",Game Development,4,Game Design with Unity
+"Python, TensorFlow, SQL, Django",AR/VR,9,AR/VR Development
+"Matplotlib, Machine Learning, NumPy",Cybersecurity,4,Cybersecurity Fundamentals
+"Angular, Deep Learning, Pandas, Keras",Business Intelligence,1,Mastering SQL
+"React, PyTorch, Machine Learning, R, HTML, Git",Web Development,6,JavaScript Masterclass
+"Matplotlib, Flask, Linux, C++, Git, HTML",Web Development,3,React for Beginners
+"Machine Learning, React, AWS, Node.js",IoT,10,IoT Development with Raspberry Pi
+"Node.js, Git, PyTorch, GCP, Linux",Web Development,9,JavaScript Masterclass
+"TensorFlow, HTML, Linux, Python, R",Cloud Computing,10,Docker Essentials
+"CSS, HTML",AI/ML,1,Intro to Machine Learning
+"Tableau, Git",Business Intelligence,8,Full Stack Web Development
+"GCP, Flask",Game Development,1,Game Design with Unity
+"Node.js, Scikit-learn",Cybersecurity,1,Cybersecurity Fundamentals
+"React, JavaScript, Azure, PyTorch, Machine Learning",Cybersecurity,2,Cybersecurity Fundamentals
+"Kubernetes, HTML, Python, Java, Deep Learning, Django",Web Development,7,React for Beginners
+"Tableau, Node.js, NumPy, PyTorch, R, AWS",Game Development,2,Game Design with Unity
+"Scikit-learn, PyTorch, Machine Learning, Azure, Git, Matplotlib",AI/ML,8,Pandas & NumPy Crash Course
+"Tableau, Django, Keras, NumPy",Cloud Computing,1,Docker Essentials
+"Django, TensorFlow, Node.js, R",DevOps,0,DevOps Engineering
+"Kubernetes, GCP, Linux, R, Django, React",Business Intelligence,8,Intro to Machine Learning
+"Power BI, GCP, Keras, React, Python",AI/ML,4,Pandas & NumPy Crash Course
+"Docker, Python, NumPy",Web Development,3,React for Beginners
+"TensorFlow, Flask, JavaScript, HTML, AWS, Azure",AR/VR,6,AR/VR Development
+"JavaScript, Node.js, C++, TensorFlow, Machine Learning",Cloud Computing,8,Kubernetes Hands-On
+"React, Machine Learning, Azure, NumPy",DevOps,6,DevOps Engineering
+"HTML, R",DevOps,1,Linux for Developers
+"Scikit-learn, PyTorch, Node.js, AWS, Keras",Cloud Computing,5,Cloud Architecture with AWS
+"Java, NumPy, Python",Cybersecurity,1,Cybersecurity Fundamentals
+"Node.js, R, AWS, PyTorch",Data Science,3,Intro to Machine Learning
+"Python, Keras, CSS",Web Development,6,React for Beginners
+"Django, PyTorch, AWS, Docker, Java",Web Development,1,Full Stack Web Development
+"Node.js, GCP",AI/ML,1,Pandas & NumPy Crash Course
+"HTML, CSS, Git, Kubernetes, Node.js",AI/ML,0,Intro to Machine Learning
+"Flask, GCP, PyTorch",Cloud Computing,0,Cloud Architecture with AWS
+"Azure, GCP, SQL, Pandas, Deep Learning",Cloud Computing,7,Docker Essentials
+"Tableau, Angular, HTML, Machine Learning",Data Science,8,Pandas & NumPy Crash Course
+"Node.js, Keras",AR/VR,4,AR/VR Development
+"Django, Git, Java",AR/VR,3,AR/VR Development
+"JavaScript, Machine Learning",AI/ML,5,Intro to Machine Learning
+"Docker, Node.js, Matplotlib",Software Engineering,6,DevOps Engineering
+"Java, Matplotlib",Business Intelligence,9,Cybersecurity Fundamentals
+"GCP, C++, JavaScript, HTML",Business Intelligence,1,JavaScript Masterclass
+"Tableau, GCP, Machine Learning, Java",Data Science,5,Deep Learning Specialization
+"Docker, SQL, R, Keras, JavaScript, Angular",Game Development,10,Game Design with Unity
+"Docker, Git, PyTorch, Azure",Cloud Computing,0,Kubernetes Hands-On
+"Django, Azure, R, Node.js, Git",Data Science,7,Data Science Bootcamp
+"React, NumPy, AWS, Keras, CSS, Matplotlib",Cybersecurity,8,Cybersecurity Fundamentals
+"Angular, Azure, PyTorch, Node.js",IoT,8,IoT Development with Raspberry Pi
+"C++, Pandas, R",Business Intelligence,4,Game Design with Unity
+"Django, PyTorch, Python, GCP, Machine Learning, Pandas",AI/ML,2,Intro to Machine Learning
+"Linux, Django, GCP, Scikit-learn, JavaScript, Angular",Software Engineering,10,Pandas & NumPy Crash Course
+"CSS, Pandas, Deep Learning, Keras, GCP",Game Development,2,Game Design with Unity
+"React, Angular, TensorFlow, Machine Learning, Tableau, SQL",Software Engineering,8,Cloud Architecture with AWS
+"Kubernetes, Power BI",Cybersecurity,2,Cybersecurity Fundamentals
+"CSS, SQL",Business Intelligence,3,Deep Learning Specialization
+"Matplotlib, Machine Learning",AI/ML,10,Data Science Bootcamp
+"Scikit-learn, AWS, Matplotlib, Node.js, Java, Django",Cloud Computing,9,Kubernetes Hands-On
+"Python, Tableau",Cloud Computing,10,Docker Essentials
+"PyTorch, Docker",AR/VR,0,AR/VR Development
+"NumPy, Azure, Power BI, Git",AI/ML,5,Intro to Machine Learning
+"Node.js, Pandas, Java, Azure, C++, React",Software Engineering,3,Linux for Developers
+"SQL, Azure",Cloud Computing,8,Docker Essentials
+"CSS, Pandas, Deep Learning",Cloud Computing,9,Kubernetes Hands-On
+"NumPy, Azure, TensorFlow",Software Engineering,10,AR/VR Development
+"Deep Learning, PyTorch, AWS, TensorFlow",Software Engineering,2,React for Beginners
+"Flask, Pandas, Angular, Deep Learning, HTML, NumPy",IoT,7,IoT Development with Raspberry Pi
+"Git, Angular, NumPy, Linux",Web Development,6,JavaScript Masterclass
+"Kubernetes, Azure, Angular, Scikit-learn, JavaScript",IoT,8,IoT Development with Raspberry Pi
+"Flask, GCP, NumPy",DevOps,5,Docker Essentials
+"Power BI, Flask, Python, Azure, Java",DevOps,9,DevOps Engineering
+"R, Git, React, Python, Tableau, JavaScript",Cloud Computing,5,Cloud Architecture with AWS
+"Tableau, NumPy, Pandas, Matplotlib",IoT,2,IoT Development with Raspberry Pi
+"Java, PyTorch",Web Development,2,Full Stack Web Development
+"Django, Git, Matplotlib, JavaScript",Cloud Computing,4,Docker Essentials
+"Matplotlib, Flask",IoT,3,IoT Development with Raspberry Pi
+"Azure, Angular",Business Intelligence,2,Docker Essentials
+"Kubernetes, Tableau, SQL, Scikit-learn, Machine Learning, React",Data Science,9,Data Science Bootcamp
+"GCP, Java",Web Development,5,React for Beginners
+"Tableau, Linux, SQL, GCP, JavaScript",AR/VR,9,AR/VR Development
+"Machine Learning, GCP",AR/VR,6,AR/VR Development
+"React, Pandas",Data Science,5,Pandas & NumPy Crash Course
+"R, Angular, Pandas, AWS, JavaScript, Power BI",Data Science,10,Data Science Bootcamp
+"GCP, Scikit-learn, Matplotlib, Pandas, C++",Cloud Computing,6,Docker Essentials
+"R, Angular, C++, Keras, Matplotlib",Data Science,8,Data Science Bootcamp
+"C++, Flask, Pandas, TensorFlow",Cybersecurity,2,Cybersecurity Fundamentals
+"NumPy, CSS, Keras, Flask, Machine Learning",IoT,3,IoT Development with Raspberry Pi
+"Scikit-learn, Azure, Pandas, JavaScript, Linux, C++",DevOps,6,Docker Essentials
+"C++, SQL, Deep Learning, TensorFlow, Linux, Django",Web Development,3,React for Beginners
+"Scikit-learn, Machine Learning, Python, GCP",DevOps,2,Docker Essentials
+"Kubernetes, Docker, PyTorch, Scikit-learn, R, Git",Data Science,3,Deep Learning Specialization
+"R, GCP, Azure, Linux",Software Engineering,1,Full Stack Web Development
+"Power BI, Scikit-learn, Tableau",Cybersecurity,4,Cybersecurity Fundamentals
+"Angular, AWS",Software Engineering,4,Advanced Python Programming
+"Python, Angular, CSS, Azure, NumPy",Cloud Computing,3,Kubernetes Hands-On
+"GCP, Node.js, NumPy, Keras, Scikit-learn, Azure",Cybersecurity,10,Cybersecurity Fundamentals
+"Flask, Matplotlib",AR/VR,8,AR/VR Development
+"Node.js, HTML",Data Science,4,Deep Learning Specialization
+"Node.js, Java, PyTorch, Machine Learning, Python, C++",AI/ML,10,AI for Everyone
+"Linux, SQL, Python, React",AR/VR,6,AR/VR Development
+"Flask, Pandas, AWS",Software Engineering,5,Docker Essentials
+"NumPy, C++, HTML, CSS, Pandas, PyTorch",Game Development,0,Game Design with Unity
+"JavaScript, Tableau",Game Development,4,Game Design with Unity
+"Keras, Flask, Azure, HTML",Data Science,5,AI for Everyone
+"Machine Learning, React, JavaScript, Pandas",DevOps,0,Linux for Developers
+"Git, Flask, Kubernetes, Python",Game Development,4,Game Design with Unity
+"R, Angular, Git",AI/ML,10,Deep Learning Specialization
+"Azure, Flask",Game Development,10,Game Design with Unity
+"Linux, Machine Learning, Deep Learning, JavaScript, TensorFlow, Power BI",IoT,2,IoT Development with Raspberry Pi
+"React, Tableau, Scikit-learn, Angular, PyTorch",Game Development,2,Game Design with Unity
+"Machine Learning, R, Matplotlib",Game Development,10,Game Design with Unity
+"Linux, R, React",Game Development,2,Game Design with Unity
+"Tableau, GCP, R, Machine Learning, Matplotlib",Cybersecurity,5,Cybersecurity Fundamentals
+"NumPy, Power BI",Software Engineering,2,Kubernetes Hands-On
+"Azure, Python, GCP",Web Development,6,React for Beginners
+"PyTorch, Azure, Tableau, Kubernetes",AR/VR,4,AR/VR Development
+"GCP, CSS, SQL",Cybersecurity,2,Cybersecurity Fundamentals
+"GCP, Scikit-learn",IoT,4,IoT Development with Raspberry Pi
+"Matplotlib, Scikit-learn, JavaScript, Tableau, Git, Kubernetes",AR/VR,0,AR/VR Development
+"C++, AWS, GCP, Keras",Cybersecurity,8,Cybersecurity Fundamentals
+"Keras, AWS, Machine Learning, Django, HTML, Flask",Business Intelligence,7,Cybersecurity Fundamentals
+"CSS, JavaScript, Java",AI/ML,0,AI for Everyone
+"JavaScript, Azure, Deep Learning, CSS, GCP",Cloud Computing,1,Cloud Architecture with AWS
+"Linux, Scikit-learn, Keras, AWS, Angular",Business Intelligence,3,Power BI Data Analysis
+"GCP, Java, Scikit-learn, Azure, Kubernetes",AI/ML,5,Data Science Bootcamp
+"Power BI, Azure, Matplotlib, Scikit-learn, NumPy, Pandas",AR/VR,0,AR/VR Development
+"SQL, PyTorch, Tableau, Kubernetes, Java, JavaScript",Game Development,8,Game Design with Unity
+"Azure, Java, NumPy, Flask, Pandas",AR/VR,0,AR/VR Development
+"React, PyTorch, Flask",DevOps,4,Docker Essentials
+"TensorFlow, React, Scikit-learn",Data Science,8,Deep Learning Specialization
+"Kubernetes, Machine Learning, PyTorch, C++, Azure",Game Development,1,Game Design with Unity
+"GCP, Matplotlib, Power BI",Game Development,2,Game Design with Unity
+"TensorFlow, Angular, PyTorch, Python, HTML",Business Intelligence,9,Data Science Bootcamp
+"C++, Node.js, Angular, AWS, Machine Learning",Cybersecurity,1,Cybersecurity Fundamentals
+"SQL, AWS",Business Intelligence,10,IoT Development with Raspberry Pi
+"Pandas, AWS",AI/ML,8,Pandas & NumPy Crash Course
+"Flask, NumPy, Java",Cybersecurity,5,Cybersecurity Fundamentals
+"Linux, Deep Learning, Power BI, R, HTML, Git",Cybersecurity,0,Cybersecurity Fundamentals
+"React, Azure, GCP, Power BI, PyTorch",DevOps,10,DevOps Engineering
+"Git, R",Cloud Computing,0,Kubernetes Hands-On
+"Python, PyTorch, Keras, Linux",Business Intelligence,8,Intro to Machine Learning
