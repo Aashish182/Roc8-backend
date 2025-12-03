@@ -4,7 +4,7 @@ const salaryPredict = async (req, res) => {
   try {
     const { experience, education, location, job_title, skills } = req.body;
 
-    const response = await fetch('http://localhost:5000/predict', {
+    const response = await fetch('https://roc8-ml.onrender.com/predict', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({
