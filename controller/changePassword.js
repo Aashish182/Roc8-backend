@@ -1,6 +1,6 @@
 const uploadCampiagnPermission = require("../helper/permission");
 const userModel = require("../models/userModel");
-const bcrypt = require('bcrypt');
+const bcrypt = require('bcryptjs');
 
 
 async function changePassword(req,res) {
