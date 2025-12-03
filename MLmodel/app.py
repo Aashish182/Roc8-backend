@@ -216,7 +216,7 @@ def apply_skill_bonus(base_salary, skill_list):
     if 'Java' in skill_list: bonus += 20000
     return base_salary + bonus
 
-@app.route('/predict_salary', methods=['POST'])
+@app.route('/predict', methods=['POST'])
 def predict_salary():
     if not model:
         return jsonify({"error": "Model not loaded"}), 500
